@@ -8,13 +8,4 @@
 ---
 
 
-![Screen shot](one.png
-tow.png)
----
-![Screen shot](web/7/tow.png)
----
-![Screen shot](web/7/tri.png)
----
-![Screen shot](web/7/for.png)
----
-![Screen shot](web/7/five.png)
+![Screen shot](one.png/tow.png/tri.png/for.png/five.png)

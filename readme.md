@@ -8,8 +8,8 @@
 ---
 
 
-![Screen shot](one.png)
-![Screen shot](tow.png)
-![Screen shot](tri.png)
-![Screen shot](for.png)
-![Screen shot](five.png)
+![Screen shot](img/one.png)
+![Screen shot](img/tow.png)
+![Screen shot](img/tri.png)
+![Screen shot](img/for.png)
+![Screen shot](img/five.png)

@@ -9,7 +9,11 @@
 
 
 ![Screen shot](one.png)
+---
 ![Screen shot](web/7/tow.png)
+---
 ![Screen shot](web/7/tri.png)
+---
 ![Screen shot](web/7/for.png)
+---
 ![Screen shot](web/7/five.png)
